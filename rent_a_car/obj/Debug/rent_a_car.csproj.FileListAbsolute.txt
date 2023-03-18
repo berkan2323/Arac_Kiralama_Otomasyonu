@@ -1,0 +1,4 @@
+C:\Users\hp\OneDrive\Masaüstü\rent_a_car-11hafta pazar\rent_a_car\rent_a_car\obj\Debug\rent_a_car.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Masaüstü\rent_a_car-11hafta pazar\rent_a_car\rent_a_car\obj\Debug\rent_a_car.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\OneDrive\Masaüstü\rent_a_car-11hafta pazar\rent_a_car\rent_a_car\obj\Debug\rent_a_car.exe
+C:\Users\hp\OneDrive\Masaüstü\rent_a_car-11hafta pazar\rent_a_car\rent_a_car\obj\Debug\rent_a_car.pdb
